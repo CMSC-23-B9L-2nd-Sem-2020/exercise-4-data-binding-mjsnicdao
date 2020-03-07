@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">nicdao_exer4</string>
+    <string name="hello">Hello</string>
+    <string name="name_text">Name</string>
+    <string name="name_edit_hint">Enter name</string>
+    <string name="age_text">Age</string>
+    <string name="age_edit_text">Enter age</string>
+    <string name="bday_text">When is your birthday?</string>
+    <string name="bday_edit_text">Enter birthday</string>
+    <string name="phonenumber_text">Phone number</string>
+    <string name="phonenumber_hint">Enter phone number</string>
+    <string name="emailaddress_text">What is your email address?</string>
+    <string name="emailaddress_hint">Enter email address</string>
+    <string name="course_text">What is your course?</string>
+    <string name="course_hint">Enter course</string>
+    <string name="dream_text">What is your ultimate dream?</string>
+    <string name="dream_hint">Enter dream</string>
+    <string name="crush_text">Who is your secret crush?</string>
+    <string name="crush_hint">Enter name of crush</string>
+    <string name="message_text">What is your message for me?</string>
+    <string name="done_button">Done</string>
+    <string name="nickname_text">Nickname</string>
+    <string name="nickname_hint">Enter nickname</string>
+    <string name="thankyou_text">Thank you for answering!</string>
 </resources>
